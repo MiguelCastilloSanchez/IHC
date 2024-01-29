@@ -1,5 +1,5 @@
 # IHC
-Repositorio de la materia de IHC
+Repositorio de la materia de IHC.
 Integrantes:
 - Alamilla Osorio Diego
 - Buenfil Aguilar Jean Carlos
