@@ -5,3 +5,4 @@ Integrantes:
 - Buenfil Aguilar Jean Carlos
 - Canul Ordoñez Josué
 - Castillo Sánchez Miguel Ángel
+- Pérez Cruz David Leobardo
